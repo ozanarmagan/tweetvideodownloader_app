@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395797287613",
+    "firebase_url": "https://tweetdownloaderandroid.firebaseio.com",
+    "project_id": "tweetdownloaderandroid",
+    "storage_bucket": "tweetdownloaderandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395797287613:android:80e81266bd997b6e2a5dd4",
+        "android_client_info": {
+          "package_name": "com.example.tweetdownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395797287613-r1un6fmss8g1f0cuudkc0a75p368rarp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZfGGEj2C9BPXBkSj5RBGT7GObnCB6Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395797287613-r1un6fmss8g1f0cuudkc0a75p368rarp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
